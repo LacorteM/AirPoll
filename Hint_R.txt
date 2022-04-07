@@ -1,0 +1,5 @@
+Ajouter un package dans un projet :
+> install.package("...")
+
+Transférer un objet dans une fonction ou une expression d'appel : 
+%>%  (est utilisé pour transférer la base de donnée dans le ggplot)

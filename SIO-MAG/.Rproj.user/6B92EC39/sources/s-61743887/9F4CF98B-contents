@@ -1,0 +1,3 @@
+library(Factoshiny) 
+data(children) 
+CAshiny(children)
